@@ -1,3 +1,5 @@
-# sb1-ukg3mxy8
+Daily Use Tracking App
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/gregorydelacruz/sb1-ukg3mxy8)
+
+https://my-daily-use-tracker.netlify.app/
+
